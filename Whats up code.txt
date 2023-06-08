@@ -15,3 +15,7 @@ WHATS UP CODE
 7.Profile page 
 
 8.Status
+
+9.Video call features
+
+10.Audio call features
