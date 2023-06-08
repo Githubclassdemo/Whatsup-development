@@ -11,3 +11,7 @@ WHATS UP CODE
 5.Privacy 
 
 6.Hide the last seen
+
+7.Profile page 
+
+8.Status
